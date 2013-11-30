@@ -1,0 +1,15 @@
+﻿html, body {	
+	height:98%;
+}
+
+div#floater {
+	position:relative; float:left;
+	height:50%;	margin-bottom:-250px;
+	width:1px;
+}
+
+div#center {
+	position:relative; clear:left;
+	height:500px; width:300px;
+	margin:0 auto;
+}
